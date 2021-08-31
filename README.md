@@ -8,6 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanUlka&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BurhanUlka)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 BurhanUlka/BurhanUlka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
